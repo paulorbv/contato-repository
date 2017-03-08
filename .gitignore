@@ -1,0 +1,5 @@
+# dependencies
+/01-cadastro-contatos/node_modules
+
+/01-cadastro-contatos/app/**/*.js
+/01-cadastro-contatos/app/**/*.map
